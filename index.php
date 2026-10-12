@@ -78,6 +78,7 @@
 
             <label>Jenis kendaraan:</label>
             <select name="jenis">
+                <option disabled selected>Pilih jenis kendaraan</option>
                 <option value="motor">Motor</option>
                 <option value="mobil">Mobil</option>
                 <option value="truk">Truk</option>
